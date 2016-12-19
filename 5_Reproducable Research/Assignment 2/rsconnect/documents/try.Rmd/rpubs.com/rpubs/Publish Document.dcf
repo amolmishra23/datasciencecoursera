@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/236322/2be6cd8174954a69af280eaa09c32172
+bundleId: https://api.rpubs.com/api/v1/document/236322/2be6cd8174954a69af280eaa09c32172
+url: http://rpubs.com/amol1729/236322
+when: 1482137331.29785
