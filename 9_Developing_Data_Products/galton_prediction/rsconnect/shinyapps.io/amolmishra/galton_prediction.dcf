@@ -1,0 +1,13 @@
+name: galton_prediction
+title: galton_prediction
+username:
+account: amolmishra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 226214
+bundleId: 1031266
+url: https://amolmishra.shinyapps.io/galton_prediction/
+when: 1508265090.64783
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: presentation.html|presentation.Rmd
