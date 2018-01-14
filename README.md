@@ -5,4 +5,4 @@ This repo is for the completion of data science specialization course offered by
 
 **Certificate of completion**
 
-![](https://i.imgur.com/hdSIyvb.jpg)
+![](https://i.imgur.com/VP5IK5X.jpg)
